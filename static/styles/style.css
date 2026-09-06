@@ -1,0 +1,13 @@
+div.accomplished {
+    background-color: green;
+    border: 5px solid black;
+    width: 400px;
+    margin: 50px;
+}
+
+div.not-accomplished {
+    background-color: red;
+    border: 5px solid black;
+    width: 400px;
+    margin: 50px;
+}
