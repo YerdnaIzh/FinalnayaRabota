@@ -40,6 +40,3 @@ def change_status_zadachi(id_zadachi):
 	db.update_status(id_zadachi)
 	db.close()
 	return redirect(url_for('index'))
-
-
-app.run()
